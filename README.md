@@ -26,14 +26,13 @@ Which sales platforms are associated with stronger sales performance?
 
 ## Tools Used
 
-Microsoft Excel
-Power BI
-Pivot Tables
-Power Query
-Data Cleaning & Transformation
-Dashboard Design
-Exploratory Data Analysis (EDA)
-Diagnostic Analysis
+• Microsoft Excel
+• Power BI
+• Pivot Tables
+• Power Query
+• Dashboard Design
+• Exploratory Data Analysis (EDA)
+• Diagnostic Analysis
 
 
 ## Data Preparation
@@ -73,23 +72,23 @@ Returning Customer Orders
 
 ## Key Findings
 
-Sales Performance
+### Sales Performance
 
 • The business generated approximately ₦46.81 million in net revenue during the analysis period, with approximately 2,410 orders and an average order value of approximately ₦21.9K.
 
 • Revenue varied across the months, with the dashboard highlighting the periods of strongest and weakest performance.
 
-Product Performance
+### Product Performance
 
 • Both bags and shoes contributed significantly to revenue, with individual products showing considerable differences in revenue contribution.
 
 • The product level analysis also showed products with relatively lower sales performance, providing opportunities for inventory and promotional review.
 
-Customer Behaviour
+### Customer Behaviour
 
 • Returning customers accounted for about 31.8% of orders, while the analysis of purchasing behaviour did not reveal a major difference in product category preference between returning and non-returning customers.
 
-Sales Platforms
+### Sales Platforms
 
 • Instagram generated the highest revenue among the recorded sales platforms, followed by WhatsApp and TikTok.
 
