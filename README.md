@@ -27,11 +27,17 @@ Which sales platforms are associated with stronger sales performance?
 ## Tools Used
 
 • Microsoft Excel
+
 • Power BI
+
 • Pivot Tables
+
 • Power Query
+
 • Dashboard Design
+
 • Exploratory Data Analysis (EDA)
+
 • Diagnostic Analysis
 
 
@@ -39,29 +45,21 @@ Which sales platforms are associated with stronger sales performance?
 
 The dataset underwent several data cleaning and validation steps before analysis.
 
-These included:
-
-Identifying and resolving inconsistent order records
-Reviewing duplicate/order record issues
-Standardizing categorical fields
-Validating order and delivery statuses
-Reviewing cancellation and return records
-Checking revenue calculations
-Identifying completed orders with zero amount paid
-Reclassifying records where the recorded order status conflicted with the financial outcome
-Validating totals against pivot-table summaries
-
 A key data quality issue was identified where some orders were recorded as completed despite having zero total amount paid and being returned/refunded. These records were reviewed and reclassified to prevent them from distorting completed order and revenue analysis.
 
 ## Dashboard
 
 The Power BI dashboard provides an overview of:
 
-Net Revenue
-Total Orders
-Completed Orders
-Cancellation Rate
-Average Order Value
+• Net Revenue
+
+• Total Orders
+
+• Completed Orders
+
+• Cancellation Rate
+
+• Average Order Value
 Monthly Revenue Trend
 Revenue by Product Category
 Product-Level Performance
