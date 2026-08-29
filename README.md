@@ -26,19 +26,13 @@ Which sales platforms are associated with stronger sales performance?
 
 ## Tools Used
 
-• Microsoft Excel
-
-• Power BI
-
-• Pivot Tables
-
-• Power Query
-
-• Dashboard Design
-
-• Exploratory Data Analysis (EDA)
-
-• Diagnostic Analysis
+- Microsoft Excel
+- Power BI
+- Pivot Tables
+- Power Query
+- Dashboard Design
+- Exploratory Data Analysis (EDA)
+- Diagnostic Analysis
 
 
 ## Data Preparation
@@ -51,44 +45,35 @@ A key data quality issue was identified where some orders were recorded as compl
 
 The Power BI dashboard provides an overview of:
 
-• Net Revenue
-
-• Total Orders
-
-• Completed Orders
-
-• Cancellation Rate
-
-• Average Order Value
-Monthly Revenue Trend
-Revenue by Product Category
-Product-Level Performance
-Top States by Revenue
-Revenue by Sales Platform
-Returning Customer Orders
+- Net Revenue
+- Total Orders
+- Completed Orders
+- Cancellation Rate
+- Average Order Value
+- Monthly Revenue Trend
+- Revenue by Product Category
+- Product-Level Performance
+- Top States by Revenue
+- Revenue by Sales Platform
+- Returning Customer Orders
 
 
 ## Key Findings
 
 ### Sales Performance
 
-• The business generated approximately ₦46.81 million in net revenue during the analysis period, with approximately 2,410 orders and an average order value of approximately ₦21.9K.
-
-• Revenue varied across the months, with the dashboard highlighting the periods of strongest and weakest performance.
-
+- The business generated approximately ₦46.81 million in net revenue during the analysis period, with approximately 2,410 orders and an average order value of approximately ₦21.9K.
+- Revenue varied across the months, with the dashboard highlighting the periods of strongest and weakest performance.
+ 
 ### Product Performance
-
-• Both bags and shoes contributed significantly to revenue, with individual products showing considerable differences in revenue contribution.
-
-• The product level analysis also showed products with relatively lower sales performance, providing opportunities for inventory and promotional review.
+- Both bags and shoes contributed significantly to revenue, with individual products showing considerable differences in revenue contribution.
+- The product level analysis also showed products with relatively lower sales performance, providing opportunities for inventory and promotional review.
 
 ### Customer Behaviour
-
-• Returning customers accounted for about 31.8% of orders, while the analysis of purchasing behaviour did not reveal a major difference in product category preference between returning and non-returning customers.
+- Returning customers accounted for about 31.8% of orders, while the analysis of purchasing behaviour did not reveal a major difference in product category preference between returning and non-returning customers.
 
 ### Sales Platforms
-
-• Instagram generated the highest revenue among the recorded sales platforms, followed by WhatsApp and TikTok.
+- Instagram generated the highest revenue among the recorded sales platforms, followed by WhatsApp and TikTok.
 
 The analysis therefore provides useful evidence on which recorded sales channels were associated with stronger revenue performance.
 
@@ -110,16 +95,19 @@ These limitations were considered before drawing conclusions to avoid presenting
 
 Based on the analysis, the business could:
 
-• Monitor monthly revenue trends to identify periods of strong and weak performance.
-• Review low-performing products for possible inventory, pricing or promotional adjustments.
-• Continue monitoring high-performing sales platforms, particularly Instagram and WhatsApp.
-• Improve customer and campaign data collection to enable more reliable marketing attribution.
-• Track customer-level purchase history more consistently to enable deeper retention analysis.
+- Monitor monthly revenue trends to identify periods of strong and weak performance.
+- Review low-performing products for possible inventory, pricing or promotional adjustments.
+- Continue monitoring high-performing sales platforms, particularly Instagram and WhatsApp.
+- Improve customer and campaign data collection to enable more reliable marketing attribution.
+- Track customer-level purchase history more consistently to enable deeper retention analysis.
 
 ## Dashboard Preview
 <img width="992" height="576" alt="image" src="https://github.com/user-attachments/assets/25c046a6-6707-4e76-9133-1e54b8ee9c50" />
 
 ## Files Included
-•
+- Cleaned Sales workbook
+- Dashboard screenshot
+- Power BI dashboard
+
 
 
